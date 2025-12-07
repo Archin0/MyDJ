@@ -1,10 +1,10 @@
 # my_dj
 
-A new Flutter project.
+Catatan:
+
+- **Konfigurasi API**: alamat backend dapat diatur melalui `--dart-define=API_BASE_URL=http://ip-laptop:8000` saat menjalankan `flutter run` atau `flutter build`. Jika tidak diisi, aplikasi memakai `http://10.0.2.2:8000` pada emulator Android dan `http://localhost:8000` pada platform lainnya.
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
